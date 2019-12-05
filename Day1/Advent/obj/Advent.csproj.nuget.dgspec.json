@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\MyProjects\\AdventOfCode1\\Day1\\Advent\\Advent.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\MyProjects\\AdventOfCode1\\Day1\\Advent\\Advent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MyProjects\\AdventOfCode1\\Day1\\Advent\\Advent.csproj",
+        "projectName": "Advent",
+        "projectPath": "C:\\Projects\\MyProjects\\AdventOfCode1\\Day1\\Advent\\Advent.csproj",
+        "packagesPath": "C:\\Users\\Z6PIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MyProjects\\AdventOfCode1\\Day1\\Advent\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Z6PIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\bld01wm.intern.kmd.dk\\KMDNuget\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://kmdapp0018.intern.kmd.dk/nuget/Dfd-NuGet-Develop": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
